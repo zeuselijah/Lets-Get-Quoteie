@@ -1,10 +1,28 @@
-const URL = "https://api.quotable.io/random";
+var url = "https://api.quotable.io/random";
 
 
-function getData(){
-    const response = $.ajax(URL)
-response.then(function(data){
-    console.log(data);
+
+
+
+$("#quoteie").click(function(){
+    $.ajax({
+        dataType: 'json',
+        url: url,
+        success: function(data){
+            console.log(data);
+        }
+    })
 })
-}
 
+
+
+
+
+
+
+
+
+
+
+
+   
