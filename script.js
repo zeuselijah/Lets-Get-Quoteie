@@ -1,5 +1,5 @@
 var url = "https://api.quotable.io/random";
-const url2 ="https://picsum.photos/200/300";
+const url2 ="https://picsum.photos/800/1080";
 
 const body = $('#mainBody')
 
