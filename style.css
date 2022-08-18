@@ -12,6 +12,10 @@ ul {
 
 }
 
+.card-header {
+    font-family: 'Lobster', cursive;
+}
+
 .card-body {
     font-family: 'Lobster', cursive;
 }
