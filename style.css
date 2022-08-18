@@ -1,8 +1,23 @@
 /* reset css */
-
+@import url('https://fonts.googleapis.com/css2?family=Satisfy&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Lobster&family=Satisfy&display=swap');
 * {
     box-sizing: border-box;
     margin: 0;
+}
+
+ul {
+    background-color: white;
+    font-family: 'Satisfy', cursive;
+
+}
+
+.card-header {
+    font-family: 'Lobster', cursive;
+}
+
+.card-body {
+    font-family: 'Lobster', cursive;
 }
 
 .container {
