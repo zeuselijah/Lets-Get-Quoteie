@@ -7,12 +7,22 @@
 }
 
 ul {
-    background-color: white;
+    background-color: rgb(245, 236, 226);
     font-family: 'Satisfy', cursive;
 
 }
+#home {
+    color: black;
+}
+#About {
+    color: black;
+}
+#Developer{
+    color: black;
+}
 
 h4 {
+    font-weight: bold;
     position: absolute;
     top: 150px;
     left: 40%;
