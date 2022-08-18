@@ -1,0 +1,55 @@
+/* reset css */
+@import url('https://fonts.googleapis.com/css2?family=Satisfy&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Lobster&family=Satisfy&display=swap');
+* {
+    box-sizing: border-box;
+    margin: 0;
+}
+
+ul {
+    background-color: white;
+    font-family: 'Satisfy', cursive;
+
+}
+
+h4 {
+    position: absolute;
+    top: 150px;
+    left: 40%;
+    width: 300px;
+    height: 50%;
+    font-family: 'Satisfy', cursive;
+    font-size: x-large; 
+    text-shadow: 1.7px 0 0 blanchedalmond;
+    text-align: center;
+}
+p {
+    position: absolute;
+    top: 200px;
+    left: 40%;
+    width: 300px;
+    height: 10%;
+    font-family: 'Satisfy', cursive;
+    font-size: 30px; 
+    text-shadow: 1.7px 0 0 blanchedalmond;
+    text-align: center;
+}
+
+
+/* .card-header {
+    font-family: 'Lobster', cursive;
+}
+
+.card-body {
+    font-family: 'Lobster', cursive;
+}
+
+.container {
+    height: 70vh;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    align-content: center;
+    justify-content: center;
+    /* border: 2px solid red; */
+ /* margin-top: 25%;   */
