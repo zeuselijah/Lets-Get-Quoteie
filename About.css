@@ -25,41 +25,27 @@ h4 {
     font-weight: bold;
     position: absolute;
     top: 150px;
-    left: 40%;
+    left: 35%;
     width: 300px;
-    height: 50%;
-    font-family: 'Satisfy', cursive;
-    font-size: x-large; 
-    text-shadow: 1.7px 0 0 blanchedalmond;
-    text-align: center;
+    height: 30%;
+    color: rgb(174, 153, 153);
+    font-family: 'Oswald', sans-serif;
+    font-size: xx-large; 
+    text-shadow: 2px 0 0 blanchedalmond;
+    /* text-align: center; */
 }
 p {
     position: absolute;
-    top: 200px;
-    left: 40%;
+    top: 250px;
+    left: 30%;
     width: 300px;
     height: 10%;
-    font-family: 'Satisfy', cursive;
-    font-size: 30px; 
-    text-shadow: 1.7px 0 0 blanchedalmond;
+    font-family: 'Oswald', sans-serif;
+    color: rgb(174, 153, 153);
+    font-size: 25px; 
+    text-shadow: 2px 0 0 blanchedalmond;
     text-align: center;
 }
 
 
-/* .card-header {
-    font-family: 'Lobster', cursive;
-}
 
-.card-body {
-    font-family: 'Lobster', cursive;
-}
-
-.container {
-    height: 70vh;
-    display: flex;
-    flex-direction: column;
-    align-items: center;
-    align-content: center;
-    justify-content: center;
-    /* border: 2px solid red; */
- /* margin-top: 25%;   */
