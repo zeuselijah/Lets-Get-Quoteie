@@ -5,11 +5,21 @@
     box-sizing: border-box;
     margin: 0;
 }
-
+#header{
+    border: 10px red;
+}
 ul {
-    background-color: white;
+    background-color: rgb(245, 236, 226);
     font-family: 'Satisfy', cursive;
-
+}
+#home {
+    color: black;
+}
+#About {
+    color: black;
+}
+#Developer{
+    color: black;
 }
 
 .card-header {
@@ -21,7 +31,7 @@ ul {
 }
 
 .container {
-    height: 70vh;
+    height: 83.7vh;
     display: flex;
     flex-direction: column;
     align-items: center;
@@ -29,4 +39,18 @@ ul {
     justify-content: center;
     /* border: 2px solid red; */
  /* margin-top: 25%;   */
+}
+
+
+#feet{
+    /* display: flex;
+    flex-direction: column;
+    justify-content: center; */
+    text-align: center;
+    background-color: rgb(245, 236, 226);
+    padding-left: 20px;
+}
+
+.social-links{
+    height: 50px;
 }

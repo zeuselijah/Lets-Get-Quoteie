@@ -1,0 +1,51 @@
+/* reset css */
+@import url('https://fonts.googleapis.com/css2?family=Satisfy&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Lobster&family=Satisfy&display=swap');
+* {
+    box-sizing: border-box;
+    margin: 0;
+}
+
+ul {
+    background-color: rgb(245, 236, 226);
+    font-family: 'Satisfy', cursive;
+
+}
+#home {
+    color: black;
+}
+#About {
+    color: black;
+}
+#Developer{
+    color: black;
+}
+
+h4 {
+    font-weight: bold;
+    position: absolute;
+    top: 150px;
+    left: 35%;
+    width: 300px;
+    height: 30%;
+    color: rgb(174, 153, 153);
+    font-family: 'Oswald', sans-serif;
+    font-size: xx-large; 
+    text-shadow: 2px 0 0 blanchedalmond;
+    /* text-align: center; */
+}
+p {
+    position: absolute;
+    top: 250px;
+    left: 30%;
+    width: 300px;
+    height: 10%;
+    font-family: 'Oswald', sans-serif;
+    color: rgb(174, 153, 153);
+    font-size: 25px; 
+    text-shadow: 2px 0 0 blanchedalmond;
+    text-align: center;
+}
+
+
+
